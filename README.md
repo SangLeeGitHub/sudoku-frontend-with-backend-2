@@ -3,7 +3,6 @@
 
 #### Techniques used : React, Express
 
-* Prepare folder and install npm modules
 * Modify the API in app.js on the project root folder. 
     * To get selected cells information from the frontend, put some codes into `app.post('/sudoku/select', `
     * Modify parts of `app.get('/sudoku/board'` to avoid changing the Sudoku number you selected.
