@@ -19,3 +19,5 @@
    
 * Run
    * `npm start`
+   * You are able to go to http://localhost:8080 on the web browser while running the reverse proxy with Nginx.
+   * You can access the app through http://localhost:8081 on the web browser if you don't run the reverse proxy with Nginx.
