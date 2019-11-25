@@ -21,4 +21,4 @@
    * `npm start`
    * You are able to go to http://localhost:8080 on the web browser while running the reverse proxy with Nginx.
    * You can access the app through http://localhost:8081 on the web browser if you don't run the reverse proxy with Nginx.
-   * Refer to the Level 2 document for Nginx setup.
+   * Refer to the [Level 2 document](https://github.com/hotdeveloper/sudoku-frontend-with-backend/blob/master/README.md) for Nginx setup.
