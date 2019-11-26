@@ -7,7 +7,7 @@
     * To get selected cells information from the frontend, put some codes into `app.post('/sudoku/select', `
     * Modify parts of `app.get('/sudoku/board'` to avoid changing the Sudoku number you selected.
  
-* Modify client/App.js
+* Modify client/src/App.js
     * Class Board 
         * Add a method handleClick(i) : Send a selected cell information to the server.
         
